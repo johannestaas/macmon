@@ -1,0 +1,11 @@
+syntax: glob
+*.pyc
+*.log
+build/*
+macmon.egg-info/*
+dist/*
+macmon.egg*
+.tox/*
+.cache/*
+.ropeproject/*
+venv/
